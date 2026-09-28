@@ -15,9 +15,9 @@ menu:
     - name: Cvičenia
       pageRef: /exercises
       weight: 2
-#    - name: Príklady
-#      pageRef: /examples
-#      weight: 3
+    - name: Príklady
+      pageRef: /examples
+      weight: 3
     - name: Zadania
       pageRef: /assignments
       weight: 4

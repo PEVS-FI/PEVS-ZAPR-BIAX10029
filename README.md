@@ -1,6 +1,6 @@
 # PANEUROUNI Základy programovania - BIAX10029 course
 
-![Hugo 0.148.2](https://img.shields.io/badge/Powered%20by%20Hugo-0.148.2-ff4088)
+![Hugo 0.162.1](https://img.shields.io/badge/Powered%20by%20Hugo-0.162.1-ff4088)
 ![GitHub License](https://img.shields.io/github/license/interes-group/PEVS-ZAPR-BIAX10029)
 [![Deploy site to GitHub Pages](https://github.com/Interes-Group/PEVS-ZAPR-BIAX10029/actions/workflows/gh-pages.yaml/badge.svg)](https://github.com/Interes-Group/PEVS-ZAPR-BIAX10029/actions/workflows/gh-pages.yaml)
 
