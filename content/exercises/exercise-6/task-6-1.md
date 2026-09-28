@@ -23,7 +23,9 @@ Program by mal vypísať na štandardný výstup následné reťazce:
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 ```C
 #include <stdio.h>
@@ -75,4 +77,4 @@ z stores the address of m = 0x7ffcb5e7914c
 &z stores the address of z = 0x7ffcb5e79138
 ```
 
-{{< /details >}}
+-->

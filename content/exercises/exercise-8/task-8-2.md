@@ -57,7 +57,9 @@ Priemerný plat: 2767.08
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 ```C
 #include <stdio.h>
@@ -164,4 +166,4 @@ int main() {
 7. Uvoľnenie zdrojov:
     * Súbor je zavretý po načítaní údajov.
 
-{{< /details >}}
+-->

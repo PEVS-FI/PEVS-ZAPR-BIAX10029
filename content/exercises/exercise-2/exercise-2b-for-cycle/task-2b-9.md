@@ -26,7 +26,9 @@ spolu s menami riadkov a stĺpcov pre čísla od 1 po 10. Očakávaný výsledok
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 ```C
 #include <stdio.h>
@@ -51,4 +53,4 @@ int main(void) {
 }
 ```
 
-{{< /details >}}
+-->

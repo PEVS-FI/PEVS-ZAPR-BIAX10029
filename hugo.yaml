@@ -1,5 +1,5 @@
 baseURL: https://zapr.interes.group
-languageCode: sk-sk
+locale: sk-sk
 title: Základy programovania
 enableGitInfo: true
 module:
@@ -15,9 +15,9 @@ menu:
     - name: Cvičenia
       pageRef: /exercises
       weight: 2
-    - name: Príklady
-      pageRef: /examples
-      weight: 3
+#    - name: Príklady
+#      pageRef: /examples
+#      weight: 3
     - name: Zadania
       pageRef: /assignments
       weight: 4
@@ -56,6 +56,9 @@ params:
   displayUpdateDate: true
   dateFormat: "02.01.2025"
   externalLinkDecoration: true
+  imageZoom:
+    enable: true
+  displayUpdatedAuthor: true
 #services:
 #  googleAnalytics:
 #    id: "G-9H7RXXLR87"
@@ -67,10 +70,6 @@ privacy:
     respectDoNotTrack: false
   instagram:
     disable: true
-    simple: false
-  twitter:
-    disable: true
-    enableDNT: false
     simple: false
   vimeo:
     disable: true

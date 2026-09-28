@@ -27,7 +27,9 @@ Adresa alokovanej pamäte: 0x000784b111
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 ```C
 #include <stdio.h>
@@ -91,4 +93,4 @@ int main() {
 5. Uvoľnenie pamäte:
     * Dynamicky alokovaná pamäť sa uvoľní pomocou free na konci programu.
    
-{{< /details >}}
+-->

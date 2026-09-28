@@ -35,7 +35,9 @@ Keďže N = 5, vypíšeme len 5 členov postupnosti.
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 ```C
 #include <stdio.h>
@@ -57,4 +59,4 @@ int main() {
 }
 ```
 
-{{< /details >}}
+-->

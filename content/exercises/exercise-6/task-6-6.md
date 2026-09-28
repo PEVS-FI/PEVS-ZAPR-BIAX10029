@@ -22,7 +22,9 @@ Pri implementácií použitie inkrementáciu pointrov, resp. pričítanie čísl
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 ```C
 #include <stdio.h>
@@ -71,4 +73,4 @@ int main() {
     * Funkcia nevyžaduje žiadne externé knižnice okrem <stdio.h>.
     * Reťazec musí byť ukončený nulovým znakom '\0' (čo je štandard pre reťazce v C).
 
-{{< /details >}}
+-->

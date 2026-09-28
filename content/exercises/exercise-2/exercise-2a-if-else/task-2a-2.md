@@ -16,7 +16,9 @@ a pre vstup **0** vypíše **nula**.
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 ```C
 #include <stdio.h>
@@ -38,4 +40,4 @@ int main() {
 }
 ```
 
-{{< /details >}}
+-->

@@ -49,7 +49,9 @@ value at address of cht= <hodnota>
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 ```C
 #include <stdio.h>
@@ -154,4 +156,4 @@ value at address of fx = 256.450001
 value at address of cht = z
 ```
 
-{{< /details >}}
+-->

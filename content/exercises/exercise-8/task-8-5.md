@@ -36,7 +36,9 @@ Zadajte hodnotu prvku: -1
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 ```C
 #include <stdio.h>
@@ -160,4 +162,4 @@ int main() {
     * Po každom pridaní sa vypíše aktuálny stav zoznamu.
     * Program končí, keď používateľ zadá -1.
 
-{{< /details >}}
+-->

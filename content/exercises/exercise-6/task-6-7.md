@@ -22,7 +22,9 @@ Pre pole `[9,8,5,1,3]` program vypíše:
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 ```C
 #include <stdio.h>
@@ -69,4 +71,4 @@ Array elements in reverse order:
 10
 ```
 
-{{< /details >}}
+-->

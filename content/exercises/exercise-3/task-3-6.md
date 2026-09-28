@@ -17,7 +17,9 @@ vypíše príslušnú chybovú správu a vráti hodnotu -1. V prípade, že _n_ 
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 ```C
 #include <stdio.h>
@@ -47,4 +49,4 @@ int main() {
 }
 ```
 
-{{< /details >}}
+-->

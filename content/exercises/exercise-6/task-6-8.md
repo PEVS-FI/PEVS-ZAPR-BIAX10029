@@ -27,7 +27,9 @@ pohnúť [obrázok na tomto odkaze opisuje algoritmus zoradenia](https://www.w3r
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 ```C
 #include <stdio.h>
@@ -86,4 +88,4 @@ Pri inicializácii poľa int array[] = {34, 7, 23, 32, 5, 62}; bude výstup:
 Sorted array: 5 7 23 32 34 62
 ```
 
-{{< /details >}}
+-->

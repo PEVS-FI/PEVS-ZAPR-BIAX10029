@@ -33,10 +33,12 @@ Programm môže obsahovať nasledovnú logiku:
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 Musím si počkať kým sa tu objaví príklad riešenia.
 
 Nezabudni, že najviac sa naučíš ak to vypracuješ sám. 😉
 
-{{< /details >}}
+-->

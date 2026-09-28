@@ -11,7 +11,9 @@ Po alokácií program vypíše jednotlivé hodnoty čísle v alokovanej pamäti.
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 ```C
 #include <stdio.h>
@@ -84,4 +86,4 @@ Value at index 3: 0
 Value at index 4: 0
 ```
 
-{{< /details >}}
+-->

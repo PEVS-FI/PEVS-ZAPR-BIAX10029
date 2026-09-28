@@ -53,7 +53,9 @@ Rok vydania: 1990
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 ```C
 #include <stdio.h>
@@ -175,4 +177,4 @@ int main() {
     * Vypisuje počet kníh v databáze.
     * Umožňuje používateľovi zadať rok a zobrazí zodpovedajúce knihy.
 
-{{< /details >}}
+-->

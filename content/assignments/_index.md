@@ -4,6 +4,6 @@ title: 'Zadania'
 ---
 
 {{< cards cols="2" >}}
-{{< card link="./assignment1" title="Semestrálne Zadanie 1" subtitle="06.11.2025 - 16.11.2025" icon="check" >}}
-{{< card link="./assignment2" title="Semestrálne Zadanie 2" subtitle="08.12.2025 - 17.12.2025" icon="clock">}}
+{{< card link="./assignment1" title="Semestrálne Zadanie 1" subtitle="27.10.2026 - 06.11.2026" icon="" >}}
+{{< card link="./assignment2" title="Semestrálne Zadanie 2" subtitle="01.12.2025 - 11.12.2025" icon="">}}
 {{< /cards >}}

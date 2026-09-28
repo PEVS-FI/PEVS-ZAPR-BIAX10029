@@ -25,7 +25,9 @@ ako je v [úlohe 5.2](/exercises/exercise-5/task-5-2).
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 ```C
 #include <stdio.h>
@@ -74,4 +76,4 @@ int main() {
     return 0;
 }
 ```
-{{< /details >}}
+-->

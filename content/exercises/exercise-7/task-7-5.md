@@ -35,7 +35,9 @@ Adresa poľa: 0x000044781dcc
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 ```C
 #include <stdio.h>
@@ -118,4 +120,4 @@ int main() {
 6. Uvoľnenie pamäte:
     * Alokovaná pamäť je uvoľnená pomocou free.
 
-{{< /details >}}
+-->

@@ -34,7 +34,9 @@ C (1 znak)
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 ```C
 #include <stdio.h>
@@ -118,4 +120,4 @@ int main() {
 5. Uvoľnenie pamäte:
     * Pre každé slovo sa pamäť uvoľní pomocou free, potom sa uvoľní pamäť pre pole pointerov.
 
-{{< /details >}}
+-->

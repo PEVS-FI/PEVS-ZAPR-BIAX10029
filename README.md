@@ -5,7 +5,7 @@
 [![Deploy site to GitHub Pages](https://github.com/Interes-Group/PEVS-ZAPR-BIAX10029/actions/workflows/gh-pages.yaml/badge.svg)](https://github.com/Interes-Group/PEVS-ZAPR-BIAX10029/actions/workflows/gh-pages.yaml)
 
 This repository hosts the website for the university course **"Základy programovania"** (Fundamentals of Programming)
-for the 2025/2026 summer semester. Built with [Hugo](https://gohugo.io/)
+for the 2026/2027 winter semester. Built with [Hugo](https://gohugo.io/)
 and [Hextra theme](https://github.com/imfing/hextra), this site provides course
 materials, announcements, and additional resources to support both students and instructors.
 

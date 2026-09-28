@@ -29,7 +29,9 @@ Value of m : 7
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 ```C
 #include <stdio.h>
@@ -105,4 +107,4 @@ Address of m : 0x7ffc7d9d314c
 Value of m : 7
 ```
 
-{{< /details >}}
+-->

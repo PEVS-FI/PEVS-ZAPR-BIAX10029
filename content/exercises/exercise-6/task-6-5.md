@@ -28,7 +28,9 @@ Pre pole `[9,8,5,1,3]` program vypíše:
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 ```C
 #include <stdio.h>
@@ -65,4 +67,4 @@ int main() {
     * %d sa používa na hodnoty typu int.
     * %p na výpis adries. Adresy sa pretypujú na (void *) pre kompatibilitu so štandardom %p.
 
-{{< /details >}}
+-->

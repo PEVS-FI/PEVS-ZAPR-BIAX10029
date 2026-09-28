@@ -17,7 +17,9 @@ Spustenie programu s parametrami 2 a 5 vráti hodnotu 10.
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 ```C
 #include <stdio.h>
@@ -38,4 +40,4 @@ int main() {
 }
 ```
 
-{{< /details >}}
+-->

@@ -20,7 +20,9 @@ Všimnite si, že pre parameter s hodnotou **10** sa program správa rovnako ako
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 ```C
 #include <stdio.h>
@@ -41,4 +43,4 @@ int main() {
 }
 ```
 
-{{< /details >}}
+-->

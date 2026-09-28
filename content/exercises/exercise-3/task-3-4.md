@@ -19,7 +19,9 @@ Definujte funkciu **_int pocet_rovnakych(int a, int b, int c)_** s 3 parametrami
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 ```C
 #include <stdio.h>
@@ -39,4 +41,4 @@ int main() {
     return 0;
 }
 ```
-{{< /details >}}
+-->

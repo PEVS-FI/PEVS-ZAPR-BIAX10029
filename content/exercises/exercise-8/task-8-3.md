@@ -46,7 +46,9 @@ dní je medzi dátumami. Napríklad:
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 ```C
 #include <stdio.h>
@@ -159,4 +161,4 @@ int main() {
     * Používateľ zadá dva dátumy, ktoré sa validujú.
     * Po výpočte rozdielu v dňoch je výsledok vypísaný.
 
-{{< /details >}}
+-->

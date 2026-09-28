@@ -19,7 +19,9 @@ Pre voľbu parametra **k = 1** sa program správa rovnako ako predošlá verzia 
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 ### Riešenie 1
 
@@ -66,4 +68,4 @@ int main() {
 }
 ```
 
-{{< /details >}}
+-->

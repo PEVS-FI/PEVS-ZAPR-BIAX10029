@@ -26,7 +26,9 @@ int main(){
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 #### Problémy s funkciou
 
@@ -89,4 +91,4 @@ Value at index 3: 1003
 Value at index 4: 1004
 ```
 
-{{< /details >}}
+-->

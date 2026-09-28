@@ -14,7 +14,9 @@ Ak používateľ zadá ako vstup číslo **24**, program vypíše **párne**, ak
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 ```C
 #include <stdio.h>
@@ -34,4 +36,4 @@ int main() {
 }
 ```
 
-{{< /details >}}
+-->

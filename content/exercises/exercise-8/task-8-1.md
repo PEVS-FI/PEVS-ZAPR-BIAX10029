@@ -48,7 +48,9 @@ Priemerný vek: 20.33 Priemerný prospech: 1.77
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 ```C
 #include <stdio.h>
@@ -133,4 +135,4 @@ int main() {
     * Priemerné hodnoty sú vypísané s presnosťou na dve desatinné miesta.
     * Dynamicky alokovaná pamäť sa uvoľní pomocou free.
 
-{{< /details >}}
+-->

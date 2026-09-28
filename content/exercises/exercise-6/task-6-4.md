@@ -28,7 +28,9 @@ The sum of the numbers is 51.
 
 ---
 
-{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
+Tu neskôr pribudne príkladné riešenie
+
+<!--
 
 ```C
 #include <stdio.h>
@@ -87,4 +89,4 @@ Function called with pointer 0x7ffcd3b9b414 with value 74 and pointer 0x7ffcd3b9
 The sum of the numbers is 51.
 ```
 
-{{< /details >}}
+-->
