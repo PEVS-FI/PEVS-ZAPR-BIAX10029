@@ -19,9 +19,7 @@ Ak používateľa zadá na vstupe teplotu 20.5 °C výsledná teplota bude vypí
 
 ---
 
-Tu neskôr pribudne príkladné riešenie
-
-<!--
+{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
 
 ```C
 #include <stdio.h>
@@ -39,4 +37,4 @@ int main()
 }
 ```
 
--->
+{{< /details >}}

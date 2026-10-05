@@ -216,7 +216,7 @@ Kompilátor vytvorí spustený program v priečinku _bin_ v repozitáry.
 
 Zdrojový kód tohto projektu je manažovaný verziovacím systémom Git. Pomocou Gitu je toto vypracovanie zadania aj
 odovzdané. Pre oboznámenie práce s Gitom si prečítajte tento
-článok [Git pre začiatočníkov](https://zapr.interes.group/guides/git-for-beginners/) alebo akýkoľvek iný tutoriál na
+článok [Git pre začiatočníkov](https://zapr.interes.group/guides/git_for_beginners/) alebo akýkoľvek iný tutoriál na
 internete.
 
 Pre kontrolu kompilácie je v repozitáry nastavená automatizácia cez GitHub Actions pipeline. Pipeline sa

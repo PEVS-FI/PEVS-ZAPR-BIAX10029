@@ -19,9 +19,7 @@ Ak kilometre = 9.7, minuty = 29 a sekundy = 55, potom priemerná rýchlosť cykl
 
 ---
 
-Tu neskôr pribudne príkladné riešenie
-
-<!--
+{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
 
 ```C
 #include <stdio.h>
@@ -48,4 +46,4 @@ int main()
 }
 ```
 
--->
+{{< /details >}}

@@ -14,9 +14,7 @@ po prehodení hodnôt, teda prvá premenná bude mať hodnotu _8_ a druhá preme
 
 ---
 
-Tu neskôr pribudne príkladné riešenie
-
-<!--
+{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
 
 ```C
 #include <stdio.h>
@@ -42,4 +40,4 @@ int main()
 }
 ```
 
--->
+{{< /details >}}

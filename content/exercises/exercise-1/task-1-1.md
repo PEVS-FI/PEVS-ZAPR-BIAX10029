@@ -17,9 +17,7 @@ obrazovku čísla 20 a 25.
 
 ---
 
-Tu neskôr pribudne príkladné riešenie
-
-<!--
+{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
 
 ```C
 #include <stdio.h>
@@ -35,4 +33,4 @@ int main()
 }
 ```
 
--->
+{{< /details >}}

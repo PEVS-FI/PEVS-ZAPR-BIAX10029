@@ -29,10 +29,26 @@ Use `hugo new` with the provided archetypes rather than hand-writing front matte
 - `archetypes/task.md` — individual task (C++17 task template)
 - `archetypes/default.md` — generic page (defaults to `draft: true`)
 
-## Task solutions are not shown
+## Task solutions
 
-Task solution code is deliberately not published. Solution blocks are stored as HTML comments (`<!-- ... -->`) in each
-`task-N-M.md`, rendered only as the sentence "Tu neskôr pribudne príkladné riešenie". Do not un-comment them.
+Published solution visibility is decided per exercise (instructor-controlled) — do not bulk-change it:
+
+- **exercise-1**: solutions are shown in `{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}` blocks.
+- **exercises 2–9**: solution code is stored as HTML comments (`<!-- ... -->`) in each `task-N-M.md`; the page
+  renders only the sentence "Tu neskôr pribudne príkladné riešenie". Do not un-comment them without being asked.
+
+## Guides
+
+`content/guides/` holds flat tutorial pages. Conventions:
+
+- File names are English snake_case (`git_for_beginners.md`, `gcc.md`, `c_errors.md`); front matter and all body
+  content are Slovak (`date`, `title` only).
+- Every guide must have a card in `content/guides/_index.md` (`cards` grid); icons must come from the theme's
+  heroicons set (an unknown name fails the build, e.g. `command-line` is invalid, `terminal`/`cog`/`folder` are valid).
+- Guides cross-link each other with relative paths (`../gcc/`). Anchors keep Slovak diacritics
+  (e.g. `../gcc/#ladiace-informácie-a-sanitizery`).
+- `/guides/git-for-beginners/` was published before the rename; it stays alive via `aliases:` in
+  `git_for_beginners.md`. If you rename a guide that is already live, add an alias for the old URL.
 
 ## Example source files
 

@@ -1,6 +1,7 @@
 ---
 date: '2025-02-14T18:22:04+01:00'
 title: 'Git pre začiatočníkov'
+aliases: ["/guides/git-for-beginners/"]
 ---
 
 Git je nástroj na správu verzií, ktorý sa používa na sledovanie zmien v súboroch a koordináciu práce medzi viacerými

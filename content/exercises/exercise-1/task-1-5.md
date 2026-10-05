@@ -17,9 +17,7 @@ Ak používateľ zadá výšku 1.82m a váhu 72kg výsledné vypočítané BMI j
 
 ---
 
-Tu neskôr pribudne príkladné riešenie
-
-<!--
+{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
 
 ```C
 #include <stdio.h>
@@ -43,4 +41,4 @@ int main()
 }
 ```
 
--->
+{{< /details >}}
