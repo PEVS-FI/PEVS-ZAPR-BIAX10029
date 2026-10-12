@@ -9,14 +9,12 @@ Napíšte program, zdrojový kód, v jazyku C použitím štandardu C17, ktorý 
 
 ### Príklady vstupov / výstupov programu
 
-Ak používateľ zadá ako vstup číslo **24**, program vypíše **párne**, ak používateľ zadá číslo **59** program vypíše 
+Ak používateľ zadá ako vstup číslo **24**, program vypíše **párne**, ak používateľ zadá číslo **59** program vypíše
 **nepárne**.
 
 ---
 
-Tu neskôr pribudne príkladné riešenie
-
-<!--
+{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
 
 ```C
 #include <stdio.h>
@@ -36,4 +34,4 @@ int main() {
 }
 ```
 
--->
+{{< /details >}}

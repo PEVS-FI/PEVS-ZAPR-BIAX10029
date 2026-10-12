@@ -13,9 +13,7 @@ Ak používateľ zadá ako vstup čísla **5** a **8** tak program vypíše čí
 
 ---
 
-Tu neskôr pribudne príkladné riešenie
-
-<!--
+{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
 
 ```C
 #include <stdio.h>
@@ -35,4 +33,4 @@ int main() {
 }
 ```
 
--->
+{{< /details >}}

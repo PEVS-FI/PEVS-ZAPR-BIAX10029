@@ -5,12 +5,14 @@ weight: 7
 ---
 
 Napíšte program, zdrojový kód, v jazyku C použitím štandardu C17, ktorý od používateľa vyžiada parameter _n_.
-Môžete predpokladať, že _n_ je kladné celé číslo. Program vypíše postupne na samostatné riadky čísla _od 1 po n_, s krokom +1,
+Môžete predpokladať, že _n_ je kladné celé číslo. Program vypíše postupne na samostatné riadky čísla _od 1 po n_, s
+krokom +1,
 teda na prvý riadok vypíše 1, na druhý riadok 1 2, na tretí riadok 1 2 3, atď.
 
 ### Príklady vstupov / výstupov programu
 
 Spustenie programu s parametrom 5 vypíše:
+
 ```text
 1
 1 2
@@ -21,9 +23,7 @@ Spustenie programu s parametrom 5 vypíše:
 
 ---
 
-Tu neskôr pribudne príkladné riešenie
-
-<!--
+{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
 
 ```C
 #include <stdio.h>
@@ -45,4 +45,4 @@ int main() {
 }
 ```
 
--->
+{{< /details >}}

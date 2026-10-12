@@ -49,9 +49,7 @@ Pre **n = 3** (mriežka s 3 „riadkami“ a 3 „stĺpcami“) by mriežka vyze
 
 ---
 
-Tu neskôr pribudne príkladné riešenie
-
-<!--
+{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
 
 ```C
 #include <stdio.h>
@@ -84,4 +82,4 @@ int main() {
 }
 ```
 
--->
+{{< /details >}}

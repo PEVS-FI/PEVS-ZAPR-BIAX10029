@@ -10,7 +10,8 @@ diferencia postupnosti je daná parametrom _d_. Pri riešení úlohy použite fo
 
 > [!NOTE]
 > Ak neviete, čo je to aritmetická postupnosť, môžete sa to dočítať napr.
-> tu: [https://sk.wikipedia.org/wiki/Aritmetick%C3%A1_postupnos%C5%A5](https://sk.wikipedia.org/wiki/Aritmetick%C3%A1_postupnos%C5%A5).
+>
+tu: [https://sk.wikipedia.org/wiki/Aritmetick%C3%A1_postupnos%C5%A5](https://sk.wikipedia.org/wiki/Aritmetick%C3%A1_postupnos%C5%A5).
 > V skratke, aritmetická postupnosť je postupnosť čísiel, v ktorej je člen postupnosti rovný súčtu
 > predošlého člena postupnosti a diferencie _d_. Ak by _ai_ a _ai+1_ boli 2 po sebe idúce členy postupnosti,
 > potom _ai+1 = ai + d_.
@@ -35,9 +36,7 @@ Keďže N = 5, vypíšeme len 5 členov postupnosti.
 
 ---
 
-Tu neskôr pribudne príkladné riešenie
-
-<!--
+{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
 
 ```C
 #include <stdio.h>
@@ -59,4 +58,4 @@ int main() {
 }
 ```
 
--->
+{{< /details >}}

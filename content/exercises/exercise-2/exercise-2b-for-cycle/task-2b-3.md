@@ -4,8 +4,10 @@ title: 'Úloha 2b.3'
 weight: 3
 ---
 
-Napíšte program, zdrojový kód, v jazyku C použitím štandardu C17, ktorý pre vstupný parameter _n_ vráti tzv. súčet štvorcov
-pomocou vzorca _1^2 + 2^2 + 3^2 + ... + n^2_ pričom tento súčet vypočítajte pomocou for-cyklu. Hodnotu parametru _n_ zadá
+Napíšte program, zdrojový kód, v jazyku C použitím štandardu C17, ktorý pre vstupný parameter _n_ vráti tzv. súčet
+štvorcov
+pomocou vzorca _1^2 + 2^2 + 3^2 + ... + n^2_ pričom tento súčet vypočítajte pomocou for-cyklu. Hodnotu parametru _n_
+zadá
 používateľ cez štandardný vstup.
 
 ### Príklady vstupov / výstupov programu
@@ -15,9 +17,7 @@ používateľ cez štandardný vstup.
 
 ---
 
-Tu neskôr pribudne príkladné riešenie
-
-<!--
+{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
 
 ```C
 #include <stdio.h>
@@ -38,4 +38,5 @@ int main() {
 }
 ```
 
--->
+{{< /details >}}
+

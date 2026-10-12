@@ -13,9 +13,7 @@ Pre číslo **10** na vstupe program vypíše postupnosť **1 2 3 4 5 6 7 8 9 10
 
 ---
 
-Tu neskôr pribudne príkladné riešenie
-
-<!--
+{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
 
 ```C
 #include <stdio.h>
@@ -34,4 +32,4 @@ int main() {
 }
 ```
 
--->
+{{< /details >}}

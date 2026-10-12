@@ -11,6 +11,7 @@ title: 'Návody'
     {{< card link="./gcc" title="Inštalácia kompilátora GCC" subtitle="Ako si rozbehať C kompilátor na Windowse, Linuxe a macOS a ako s ním pracovať" icon="cog" >}}
     {{< card link="./how_on_terminal" title="Práca v termináli" subtitle="Základy ovládania terminálu (PowerShell, CMD, Linux, macOS) pre kompiláciu a spúšťanie programov" icon="terminal" >}}
     {{< card link="./project_and_makefile" title="Štruktúra projektu a Makefile" subtitle="Ako si nastaviť C projekt, čo v ňom nesmie chýbať a ako pracovať s Makefile" icon="folder" >}}
+    {{< card link="./cmake_and_clion" title="CMake a CLion" subtitle="Projekt s CMakeLists.txt, build cez gcc a otvorenie v IDE CLion" icon="cube" >}}
     {{< card link="./documentation" title="Písanie dokumentácie" subtitle="Prečo dokumentovať, čo patrí do README a komentárov, kedy a kde ju písať" icon="document" >}}
     {{< card link="./c_errors" title="Chyby v C" subtitle="Ako čítať hlášky kompilátora, najčastejšie chyby a kde hľadať opravu" icon="exclamation-circle" >}}
 {{< /cards >}}

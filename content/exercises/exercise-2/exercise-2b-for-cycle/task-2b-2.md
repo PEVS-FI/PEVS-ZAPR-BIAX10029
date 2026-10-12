@@ -15,9 +15,7 @@ začínajúc dvojkou. Počet čísiel na vypísanie určuje používateľ zo št
 
 ---
 
-Tu neskôr pribudne príkladné riešenie
-
-<!--
+{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
 
 ```C
 #include <stdio.h>
@@ -38,4 +36,5 @@ int main() {
 }
 ```
 
--->
+{{< /details >}}
+

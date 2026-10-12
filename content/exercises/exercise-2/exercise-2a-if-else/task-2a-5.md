@@ -15,9 +15,7 @@ Ak používateľ zadá ako vstup **5** program vypíše číslo **31**.
 
 ---
 
-Tu neskôr pribudne príkladné riešenie
-
-<!--
+{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
 
 ```C
 #include <stdio.h>
@@ -42,4 +40,4 @@ int main() {
 }
 ```
 
--->
+{{< /details >}}

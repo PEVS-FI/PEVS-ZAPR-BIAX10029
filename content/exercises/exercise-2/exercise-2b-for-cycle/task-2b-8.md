@@ -19,9 +19,7 @@ Program implementujte bez použitia operátora * (násobenie) a bez použitia op
 
 ---
 
-Tu neskôr pribudne príkladné riešenie
-
-<!--
+{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
 
 ```C
 #include <stdio.h>
@@ -51,4 +49,4 @@ int main(void) {
 }
 ```
 
--->
+{{< /details >}}

@@ -15,7 +15,6 @@ Cvičenie je rozdelené do dvoch častí:
 - **Cvičenie 2a Control Flow** – precvičíte si prácu s podmienkami
 - **Cvičenie 2b Cykly** – zoznámite sa s možnosťami for cyklov.
 
-
 {{< pdf "./pevs-zapr-control_flow-cykly.pdf" >}}
 
 ## Časti cvičení
