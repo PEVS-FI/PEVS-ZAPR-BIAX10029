@@ -5,7 +5,7 @@ weight: 8
 ---
 
 Napíšte program, zdrojový kód, v jazyku C použitím štandardu C17, ktorý realizuje nasledovnú činnosť.
-Definujte všeobecnejšiu verziu funkciu z úlohy 3.5, **_int pocet_delitelnych(int n, int k)_**. Funkcia má 2
+Definujte všeobecnejšiu verziu funkciu z úlohy 3.5, **_int pocet_delitelnych (int n, int k)_**. Funkcia má 2
 vstupné parametre, nezáporné celé číslo _n_ a kladné číslo _k_. Ošetrite situáciu, že by vstupný
 argument pre parameter _n_ bolo záporné číslo alebo že by vstupný argument pre parameter _k_ bolo
 záporné číslo alebo nula – vždy vypíšte príslušnú chybovú hlášku a funkcia vráti hodnotu -1. V
@@ -23,9 +23,7 @@ ktoré boli deliteľné číslom k.
 
 ---
 
-Tu neskôr pribudne príkladné riešenie
-
-<!--
+{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
 
 ```C
 #include <stdio.h>
@@ -75,4 +73,4 @@ int main(void) {
 }
 ```
 
--->
+{{< /details >}}

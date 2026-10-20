@@ -5,10 +5,10 @@ weight: 10
 ---
 
 Napíšte program, zdrojový kód, v jazyku C použitím štandardu C17, ktorý realizuje nasledovnú činnosť.
-Definujte funkciu **_int je_prvocislo(int a)_** so vstupným parametrom kladným číslom _a_, ktorá vráti hodnotu
+Definujte funkciu **_int je_prvocislo (int a)_** so vstupným parametrom kladným číslom _a_, ktorá vráti hodnotu
 1, ak je parameter _a_ prvočíslo. Ak je a zložené číslo, funkcia vráti hodnotu 0. Môžete
-predpokladať, že _a_ bude mať vždy hodnotu aspoň 2. V implementácii funkcie je_prvocislo(a)
-využite funkciu delitelnost() z predošlej úlohy!
+predpokladať, že _a_ bude mať vždy hodnotu aspoň 2. V implementácii funkcie je_prvocislo (a)
+využite funkciu delitelnost () z predošlej úlohy!
 
 > [!NOTE]
 > Celé číslo a > 2 je prvočíslo, ak pre všetky čísla od 2 po a-1 platí, že nedelia číslo a. Číslo 2 je prvočíslo
@@ -24,9 +24,7 @@ využite funkciu delitelnost() z predošlej úlohy!
 
 ---
 
-Tu neskôr pribudne príkladné riešenie
-
-<!--
+{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
 
 ```C
 #include <stdio.h>
@@ -67,4 +65,4 @@ int main(void) {
 }
 ```
 
--->
+{{< /details >}}

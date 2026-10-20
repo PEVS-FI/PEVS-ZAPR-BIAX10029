@@ -5,7 +5,7 @@ weight: 1
 ---
 
 Napíšte program, zdrojový kód, v jazyku C použitím štandardu C17, ktorý realizuje nasledovnú činnosť.
-Definujte funkciu **_int tretia_mocnina(int a)_**, ktorá má 1 vstupný parameter, číslo _a_. Funkcia pre vstupný
+Definujte funkciu **_int tretia_mocnina (int a)_**, ktorá má 1 vstupný parameter, číslo _a_. Funkcia pre vstupný
 parameter a vráti hodnotu tretiu mocninu parametra _a_.
 
 ### Príklady vstupov / výstupov programu
@@ -19,9 +19,7 @@ parameter a vráti hodnotu tretiu mocninu parametra _a_.
 
 ---
 
-Tu neskôr pribudne príkladné riešenie
-
-<!--
+{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
 
 ```C
 #include <stdio.h>
@@ -40,4 +38,4 @@ int main() {
 }
 ```
 
--->
+{{< /details >}}

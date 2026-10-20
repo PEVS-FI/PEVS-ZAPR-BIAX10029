@@ -5,7 +5,7 @@ weight: 7
 ---
 
 Napíšte program, zdrojový kód, v jazyku C použitím štandardu C17, ktorý realizuje nasledovnú činnosť.
-Definujte funkciu **_int druhe_najvacsie(int n)_** s parametrom celé číslo _n_. Funkcia načíta n čísiel z
+Definujte funkciu **_int druhe_najvacsie (int n)_** s parametrom celé číslo _n_. Funkcia načíta n čísiel z
 klávesnice a vráti druhé najväčšie načítané číslo (druhé maximum). V prípade, že má parameter _n_
 hodnotu menšiu ako 2, funkcia vypíše chybovú hlášku, že hodnota vstupného argumentu funkcie
 musí byť aspoň 2 a ukončí program.
@@ -24,9 +24,7 @@ musí byť aspoň 2 a ukončí program.
 
 ---
 
-Tu neskôr pribudne príkladné riešenie
-
-<!--
+{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
 
 ```C
 #include <stdio.h>
@@ -83,4 +81,4 @@ int main() {
 }
 ```
 
--->
+{{< /details >}}

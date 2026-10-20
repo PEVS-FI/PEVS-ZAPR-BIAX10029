@@ -5,7 +5,7 @@ weight: 2
 ---
 
 Napíšte program, zdrojový kód, v jazyku C použitím štandardu C17, ktorý realizuje nasledovnú činnosť.
-Upravte funkciu **_double priemer_troch(int a, int b, int c)_** z predošlej úlohy tak, aby vrátila aritmetický priemer
+Upravte funkciu **_double priemer_troch (int a, int b, int c)_** z predošlej úlohy tak, aby vrátila aritmetický priemer
 týchto
 3 parametrov, teda hodnotu _(a+b+c)/3_.
 
@@ -16,9 +16,7 @@ týchto
 
 ---
 
-Tu neskôr pribudne príkladné riešenie
-
-<!--
+{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
 
 ```C
 #include <stdio.h>
@@ -36,4 +34,4 @@ int main() {
 }
 ```
 
--->
+{{< /details >}}

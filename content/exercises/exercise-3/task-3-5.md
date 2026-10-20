@@ -5,7 +5,7 @@ weight: 5
 ---
 
 Napíšte program, zdrojový kód, v jazyku C použitím štandardu C17, ktorý realizuje nasledovnú činnosť.
-Definujte funkciu **_int pocet_delitelnych_5(int n)_**, ktorá má vstupný parameter celé nezáporné číslo _n_.
+Definujte funkciu **_int pocet_delitelnych_5 (int n)_**, ktorá má vstupný parameter celé nezáporné číslo _n_.
 Funkcia načíta n čísiel z klávesnice (ako vstup od používateľa) a vráti počet načítaných čísiel, ktoré boli deliteľné
 číslom 5.
 Ošetrite situáciu, ak by bola funkcia volaná so záporným vstupom! V takom prípade nech funkcia
@@ -22,9 +22,7 @@ vypíše, že vstupný argument musí byť nezáporné číslo a vráti hodnotu 
 
 ---
 
-Tu neskôr pribudne príkladné riešenie
-
-<!--
+{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
 
 ```C
 #include <stdio.h>
@@ -54,4 +52,4 @@ int main() {
 }
 ```
 
--->
+{{< /details >}}

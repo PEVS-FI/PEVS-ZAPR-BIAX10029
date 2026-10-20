@@ -5,7 +5,7 @@ weight: 4
 ---
 
 Napíšte program, zdrojový kód, v jazyku C použitím štandardu C17, ktorý realizuje nasledovnú činnosť.
-Definujte funkciu **_int pocet_rovnakych(int a, int b, int c)_** s 3 parametrami, číslami _a,b,c_.
+Definujte funkciu **_int pocet_rovnakych (int a, int b, int c)_** s 3 parametrami, číslami _a,b,c_.
 
 - Funkcia vráti číslo 3, ak sú všetky tri čísla _a,b,c_ rovnaké.
 - Vráti číslo 2 ak sú dve z čísel a,b,c rovnaké a tretie číslo je iné.
@@ -19,9 +19,7 @@ Definujte funkciu **_int pocet_rovnakych(int a, int b, int c)_** s 3 parametrami
 
 ---
 
-Tu neskôr pribudne príkladné riešenie
-
-<!--
+{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
 
 ```C
 #include <stdio.h>
@@ -41,4 +39,5 @@ int main() {
     return 0;
 }
 ```
--->
+
+{{< /details >}}

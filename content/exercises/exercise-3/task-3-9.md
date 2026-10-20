@@ -5,7 +5,7 @@ weight: 9
 ---
 
 Napíšte program, zdrojový kód, v jazyku C použitím štandardu C17, ktorý realizuje nasledovnú činnosť.
-Definujte funkciu **_int delitelnost(int a, int d)_** so vstupnými parametrami kladnými celými číslami _a_ a _d_.
+Definujte funkciu **_int delitelnost (int a, int d)_** so vstupnými parametrami kladnými celými číslami _a_ a _d_.
 Funkcia vráti hodnotu **1** ak _d_ delí _a_, inak vráti hodnotu **0**. V tejto úlohe nemusíte ošetrovať
 korektnosť parametrov _a_ a _d_.
 
@@ -19,9 +19,7 @@ korektnosť parametrov _a_ a _d_.
 
 ---
 
-Tu neskôr pribudne príkladné riešenie
-
-<!--
+{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
 
 ```C
 #include <stdio.h>
@@ -50,4 +48,4 @@ int main(void) {
 }
 ```
 
--->
+{{< /details >}}

@@ -5,7 +5,7 @@ weight: 6
 ---
 
 Napíšte program, zdrojový kód, v jazyku C použitím štandardu C17, ktorý realizuje nasledovnú činnosť.
-Definujte funkciu **_int sucet_nacitanych(int n)_**, ktorá má vstupný parameter nezáporné číslo _n_. Funkcia
+Definujte funkciu **_int sucet_nacitanych (int n)_**, ktorá má vstupný parameter nezáporné číslo _n_. Funkcia
 načíta n čísiel z klávesnice a vráti súčet načítaných čísiel. V prípade, že _n_ je záporné číslo funkcia
 vypíše príslušnú chybovú správu a vráti hodnotu -1. V prípade, že _n_ je nula, funkcia vráti hodnotu 0.
 
@@ -17,9 +17,7 @@ vypíše príslušnú chybovú správu a vráti hodnotu -1. V prípade, že _n_ 
 
 ---
 
-Tu neskôr pribudne príkladné riešenie
-
-<!--
+{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
 
 ```C
 #include <stdio.h>
@@ -49,4 +47,4 @@ int main() {
 }
 ```
 
--->
+{{< /details >}}

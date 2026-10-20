@@ -8,6 +8,7 @@ weight: 3
 Na tomto cvičení si prejdeme vytváranie a používanie funkcií.
 
 ### Obsah
+
 - definovanie rôznych funkcií
 - volania vlastných funkcií
 

@@ -5,7 +5,7 @@ weight: 3
 ---
 
 Napíšte program, zdrojový kód, v jazyku C použitím štandardu C17, ktorý realizuje nasledovnú činnosť.
-Definujte funkciu **_int minimum_dvoch(int a, int b)_** s 2 parametrami, číslami _a_ a _b_. Funkcia vráti minimum z
+Definujte funkciu **_int minimum_dvoch (int a, int b)_** s 2 parametrami, číslami _a_ a _b_. Funkcia vráti minimum z
 týchto 2 čísiel.
 
 ### Príklady vstupov / výstupov programu
@@ -16,9 +16,7 @@ týchto 2 čísiel.
 
 ---
 
-Tu neskôr pribudne príkladné riešenie
-
-<!--
+{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
 
 ```C
 #include <stdio.h>
@@ -38,4 +36,4 @@ int main() {
 }
 ```
 
--->
+{{< /details >}}
