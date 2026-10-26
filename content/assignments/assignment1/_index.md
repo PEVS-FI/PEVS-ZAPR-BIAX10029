@@ -7,7 +7,7 @@ title: 'Zadanie 1 - Mission Control'
 
 Zadanie je manažované cez MS Teams v rámci teamu pre tento predmet.
 
-## Získanie šablóny a odovzdanie zadania
+### Získanie šablóny a odovzdanie zadania
 
 Najprv si vyber jeden zo spôsobov, ako získať projekt:
 
