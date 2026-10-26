@@ -10,7 +10,8 @@ tak aby vrátila súčet K-tych mocnín čísel od 1 po N. Funkciu zavolajte z h
 pre vstupný parameter.
 Výsledky, ktoré vráti funkcia vypíšte na obrazovku používateľovi.
 
-Pre voľbu parametra **k = 1** sa program správa rovnako ako predošlá verzia z [Úlohy 4.3](/exercises/exercise-4/task-4-3).
+Pre voľbu parametra **k = 1** sa program správa rovnako ako predošlá verzia
+z [Úlohy 4.3](/exercises/exercise-4/task-4-3).
 
 ### Príklady vstupov / výstupov programu
 
@@ -19,9 +20,7 @@ Pre voľbu parametra **k = 1** sa program správa rovnako ako predošlá verzia 
 
 ---
 
-Tu neskôr pribudne príkladné riešenie
-
-<!--
+{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
 
 ### Riešenie 1
 
@@ -68,4 +67,4 @@ int main() {
 }
 ```
 
--->
+{{< /details >}}

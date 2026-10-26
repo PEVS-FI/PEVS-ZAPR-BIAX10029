@@ -10,7 +10,8 @@ tak aby vrátila súčet čísel od 1 po N. Funkciu zavolajte z hlavnej funkcie 
 parameter.
 Výsledky, ktoré vráti funkcia vypíšte na obrazovku používateľovi.
 
-Všimnite si, že pre parameter s hodnotou **10** sa program správa rovnako ako verzia v [Úlohe 4.2](/exercises/exercise-4/task-4-2).
+Všimnite si, že pre parameter s hodnotou **10** sa program správa rovnako ako verzia
+v [Úlohe 4.2](/exercises/exercise-4/task-4-2).
 
 ### Príklady vstupov / výstupov programu
 
@@ -20,9 +21,7 @@ Všimnite si, že pre parameter s hodnotou **10** sa program správa rovnako ako
 
 ---
 
-Tu neskôr pribudne príkladné riešenie
-
-<!--
+{{< details title="Rozbaľ pre ukážku riešenia" closed="true" >}}
 
 ```C
 #include <stdio.h>
@@ -43,4 +42,4 @@ int main() {
 }
 ```
 
--->
+{{< /details >}}
